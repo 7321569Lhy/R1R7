@@ -12,6 +12,10 @@ typedef struct {
 	Graphkind kind;//图的种类标志
 }MGraph;//邻接矩阵法表示图
 
+
+
+//添加一行注释用作git测试
+
 //邻接表法表示图
 typedef struct ArcNode {//弧信息
 	int adjvex;//弧指向的下一节点下标
