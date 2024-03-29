@@ -15,10 +15,10 @@ public class Test {
         }
         case2.upper_base=3;
         case2.lower_base=8;
-        case2.h=4;
+        case2.h=8;
         double s2=case2.getS();
         System.out.println(s2);
-        case3.r=2;
+        case3.r=3;
         double l3=case3.getL();
         System.out.println(l3);
         double s3=case3.getS();
